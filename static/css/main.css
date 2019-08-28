@@ -1,0 +1,52 @@
+html {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+    width: 100%;
+    font: arial;
+	}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    }
+
+#planetHeader {
+    padding-top: 68px;
+    padding-bottom: 10px;
+}
+.navbar li{
+    font-size: 1em;
+    margin-left: 20px;
+}
+.navbar span{
+    position: absolute;
+    right: 40px;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+    }
+.btn-primary {
+    margin-right: 2px;
+}
+
+/*registration*/
+
+.register-container{
+    height: 100%;
+    margin-top: 50px;
+    margin-right: 30%;
+    margin-left: 30%;
+
+}
+
+/*login*/
+
+.login-container{
+    height: 100%;
+    margin-top: 50px;
+    margin-right: 30%;
+    margin-left: 30%;
+
+}
